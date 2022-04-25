@@ -1,2 +1,2 @@
 # payment-gateway
-Payment-gateway on Block-chains
+Payment-gateway on Blockchains
